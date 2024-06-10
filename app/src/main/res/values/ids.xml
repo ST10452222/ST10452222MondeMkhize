@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startButton" type="id" />
+    <item name="exitButton" type="id" />
+    <item name="addButton" type="id" />
+    <item name="averageTextView" type="id" />
+    <item name="detailsTextView" type="id" />
+    <item name="activitynotesEditText" type="id" />
+    <item name="clearButton" type="id" />
+    <item name="viewdetailsButton" type="id" />
+</resources>
